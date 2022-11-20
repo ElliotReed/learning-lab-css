@@ -1,9 +1,9 @@
-# Learning Lab
+# CSS Lab
+
+## Learning Lab
 
 A collection of exercises to practice technologies.
 
-## HTML Lab
+### HTML Lab
 
-## CSS Lab
-
-## JavaScript Lab
+### JavaScript Lab

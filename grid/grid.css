@@ -1,0 +1,32 @@
+.grid {
+  display: grid;
+}
+
+.inline-grid {
+  display: inline-grid;
+}
+
+.container {
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--spacer-md);
+  color: white;
+}
+
+.item {
+  display: grid;
+  place-content: center;
+  background-color: var(--primary);
+  padding: var(--spacer-md);
+}
+
+.item-1 {}
+
+.item-2 {}
+
+.item-3 {}
+
+.item-4 {}
+
+.item-5 {}
+
+.item-6 {}
